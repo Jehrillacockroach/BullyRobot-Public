@@ -2,10 +2,10 @@
     <a href="https://github.com/Jehrillacockroach/BullyRobot Public/stargazers"><img src="https://img.shields.io/github/stars/cyberxron/BullyRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/Jehrillacockroach/BullyRobot Public"> <img src="https://img.shields.io/github/repo-size/cyberxron/BullyRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Jehrillacockroach/BullyRobot Public/commits/prince"> <img src="https://img.shields.io/github/last-commit/cyberxron/BullyRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Jehrillacockroach/BullyRobot Public/issues"> <img src="https://img.shields.io/github/issues/cyberxron/BullyRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Jehrillacockroach/BullyRobot Public/network/members"> <img src="https://img.shields.io/github/forks/cyberxron/BullyRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Jehrillacockroach/BullyRobot-Public"> <img src="https://img.shields.io/github/repo-size/Jehrillacockroach/BullyRobot-Public?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Jehrillacockroach/BullyRobot-Public/commits/prince"> <img src="https://img.shields.io/github/last-commit/Jehrillacockroach/BullyRobot-Public?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Jehrillacockroach/BullyRobot-Public/issues"> <img src="https://img.shields.io/github/issues/Jehrillacockroach/BullyRobot-Public?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Jehrillacockroach/BullyRobot-Public/network/members"> <img src="https://img.shields.io/github/forks/Jehrillacockroach/BullyRobot-Public?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
