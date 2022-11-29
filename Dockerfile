@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/BullyRobot
-RUN git clone -b shiken https://github.com/AnonymousBoy1025/BullyRobot /root/BullyRobot
+RUN git clone -b shiken https://github.com/Jehrillacockroach/BullyRobot-Public /root/BullyRobot
 WORKDIR /root/BullyRobot
 
 #Copy config file to /root/BullyRobot/BullyRobot
