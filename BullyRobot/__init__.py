@@ -102,7 +102,7 @@ if ENV:
         raise Exception("Your blacklisted chats list does not contain valid integers.")
 
 else:
-    from BullyRobot.config import Development as Config
+    from BullyRobot.sample_config import Development as Config
 
     TOKEN = Config.TOKEN
 
